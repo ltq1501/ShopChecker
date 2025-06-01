@@ -47,17 +47,17 @@ export const loadSkinsJSON = async (filename = "data/skins.json") => {
     titles = jsonData.titles;
     battlepass = jsonData.battlepass;
 }
+const fs = require('fs');
+const path = require('path');
 
 export const saveSkinsJSON = (filename = "data/skins.json") => {
-    const dir = path.resolve(path.dirname(filename));
-    console.log("Checking or creating dir:", dir);
-
-    if (!fs.existsSync(dir)) {
-        console.log("Directory does not exist. Creating...");
-        fs.mkdirSync(dir, { recursive: true });
-    } else {
-        console.log("Directory exists.");
-    }
+  const dir = path.dirname(filename);
+  if (!fs.existsSync(dir)) {
+    console.log(`Checking or creating dir: ${path.resolve(dir)}`);
+    fs.mkdirSync(dir, { recursive: true });
+  } else {
+    console.log(`Directory exists: ${path.resolve(dir)}`);
+  }
     fs.writeFileSync(filename, JSON.stringify({ formatVersion, gameVersion, weapons, skins, prices, bundles, rarities, buddies, sprays, cards, titles, battlepass }, null, 2));
     console.log("File saved successfully:", filename);
 }
