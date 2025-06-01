@@ -7,6 +7,7 @@ import { DEFAULT_VALORANT_LANG, discToValLang } from "../misc/languages.js";
 import { client } from "../discord/bot.js";
 import { sendShardMessage } from "../misc/shardMessage.js";
 import { riotClientHeaders } from "../misc/util.js";
+import path from "path";
 
 const formatVersion = 14;
 let gameVersion;
@@ -48,6 +49,10 @@ export const loadSkinsJSON = async (filename = "data/skins.json") => {
 }
 
 export const saveSkinsJSON = (filename = "data/skins.json") => {
+    const dir = path.dirname(filename);
+    if (!fs.existsSync(dir)) {
+        fs.mkdirSync(dir, { recursive: true });
+    }
     fs.writeFileSync(filename, JSON.stringify({ formatVersion, gameVersion, weapons, skins, prices, bundles, rarities, buddies, sprays, cards, titles, battlepass }, null, 2));
 }
 
