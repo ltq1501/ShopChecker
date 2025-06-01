@@ -1,5 +1,4 @@
-// Gọi file bot chính để chạy bot Discord
-import './SkinPeek.js';
+// Gọi file bot chính để chạy bot DiscorD
 
 import http from 'http';
 const PORT = process.env.PORT || 8080;
@@ -13,3 +12,4 @@ const server = http.createServer((req, res) => {
 server.listen(PORT, '0.0.0.0', () => {
   console.log(`🌍 HTTP server running on port ${PORT}`);
 });
+import './SkinPeek.js';
