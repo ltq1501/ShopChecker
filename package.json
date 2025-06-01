@@ -6,7 +6,6 @@
   "scripts": {
     "start": "node server.js"
   },
-  "type": "module",
   "dependencies": {
     "discord.js": "^14.11.0",
     "fuzzysort": "^2.0.4",
