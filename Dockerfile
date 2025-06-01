@@ -13,7 +13,10 @@ COPY package-lock.json /usr/app
 
 COPY sharding.js /usr/app/
 COPY SkinPeek.js /usr/app/
+COPY server.js /usr/app/
 
 RUN npm i
 
-CMD ["node", "SkinPeek.js"]
+EXPOSE 8080
+
+CMD ["node", "server.js"]
