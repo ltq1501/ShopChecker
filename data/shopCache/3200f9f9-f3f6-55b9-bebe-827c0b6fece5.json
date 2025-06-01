@@ -1,0 +1,68 @@
+{
+  "offers": {
+    "offers": [
+      "0e1af0d5-4dee-15db-25b5-31a7da6f1d52",
+      "5a0cd3b5-4249-bf6f-d009-17a81532660e",
+      "60fc4e39-4af2-328b-2a1f-59834681dd57",
+      "e6b64b6e-41cb-a99f-dceb-c0bc95b93d0d"
+    ],
+    "expires": 1748822397,
+    "accessory": {
+      "offers": [
+        {
+          "cost": 7500,
+          "rewards": [
+            {
+              "ItemTypeID": "dd3bf334-87f3-40bd-b043-682a57a8dc3a",
+              "ItemID": "a7555579-4df9-6916-e15f-8381c11689a9",
+              "Quantity": 2
+            }
+          ],
+          "contractID": "ed0b331b-45f2-115c-c958-3c9683ff5b5e"
+        },
+        {
+          "cost": 4000,
+          "rewards": [
+            {
+              "ItemTypeID": "d5f120f8-ff8c-4aac-92ea-f2b5acbe9475",
+              "ItemID": "3eb2d891-470b-c4aa-654a-0ebd4d94090f",
+              "Quantity": 1
+            }
+          ],
+          "contractID": "2b3a941d-4b85-a0df-5beb-8897224d290a"
+        },
+        {
+          "cost": 5500,
+          "rewards": [
+            {
+              "ItemTypeID": "dd3bf334-87f3-40bd-b043-682a57a8dc3a",
+              "ItemID": "a40f40e8-4c8a-633a-a786-7baa060bd970",
+              "Quantity": 2
+            }
+          ],
+          "contractID": "c1cd8895-4bd2-466d-e7ff-b489e3bc3775"
+        },
+        {
+          "cost": 4000,
+          "rewards": [
+            {
+              "ItemTypeID": "d5f120f8-ff8c-4aac-92ea-f2b5acbe9475",
+              "ItemID": "56edb899-4ae8-9f20-9412-21ae19ef368d",
+              "Quantity": 1
+            }
+          ],
+          "contractID": "1b66eeef-4fad-03a0-8df2-4994e11dda3d"
+        }
+      ],
+      "expires": 1748995197
+    }
+  },
+  "bundles": [
+    {
+      "uuid": "89443dca-429b-a9b0-afa1-5fa10b2446e5",
+      "expires": 1750971597
+    }
+  ],
+  "night_market": null,
+  "timestamp": 1748751417154
+}

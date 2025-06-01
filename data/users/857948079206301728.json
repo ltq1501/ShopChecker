@@ -1,0 +1,40 @@
+{
+  "accounts": [
+    {
+      "id": "857948079206301728",
+      "puuid": "3200f9f9-f3f6-55b9-bebe-827c0b6fece5",
+      "auth": {
+        "rso": "eyJraWQiOiJyc28tcHJvZC0yMDI0LTExIiwiYWxnIjoiUlMyNTYifQ.eyJwcCI6eyJjIjoiYXMifSwic3ViIjoiMzIwMGY5ZjktZjNmNi01NWI5LWJlYmUtODI3YzBiNmZlY2U1Iiwic2NwIjpbImFjY291bnQiLCJvcGVuaWQiXSwiY2xtIjpbImVtYWlsX3ZlcmlmaWVkIiwib3BlbmlkIiwicHciLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiLCJsaW5rZWRfaWRlbnRpdHlfZGV0YWlscyIsInByZWZlcnJlZF91c2VybmFtZSIsImxvY2FsZSIsImFjY291bnRfdmVyaWZpZWQiLCJmZWRlcmF0ZWRfaWRlbnRpdHlfZGV0YWlscyIsInJnbl9WTjIiLCJmZWRlcmF0ZWRfaWRlbnRpdHlfcHJvdmlkZXJzIiwiZW1haWxfc2V0IiwiYWNjdF9nbnQiLCJhY2N0IiwiYWdlIiwiYWZmaW5pdHkiLCJ1c2VybmFtZSJdLCJkYXQiOnsicCI6bnVsbCwiciI6IlZOMiIsImMiOiJ1dzEiLCJ1IjozMjA3MjAwNDE0MTcyNTc2LCJsaWQiOiJSVXhIZXdMck9xcGNtbWhBY3huMmVnIn0sImlzcyI6Imh0dHBzOi8vYXV0aC5yaW90Z2FtZXMuY29tIiwicGx0Ijp7ImRldiI6InVua25vd24iLCJpZCI6IndlYiJ9LCJleHAiOjE3NDg3NTUwMDEsImlhdCI6MTc0ODc1MTQwMSwianRpIjoieUVFaklNaXVyWnciLCJjaWQiOiJwbGF5LXZhbG9yYW50LXdlYi1wcm9kIn0.MQenx_RHzCoMVWx1E7d-b9o6bTEuByNWtuZmIKCCbtuUvgglFC-w_hQBKuakb9BIokQY9nWv4k3k2pgYgP7_z1AugxzoqVEp4bx4tzqZnVo3iGu567OU28ZYTlp2cYswjpx6A453EZ7JTM7S8CeVhbdeqMOIiD2J8kNFhxf68-zEgugXkXFTxzCvaMpNHD7J7YFpYbQlUhDNoSOuuirsuUw3zgZam7_s59L8xsbtIHEBYIZCwtbokbS_i9XFotMysblHwvsAuaRwRNeOZ2SUJV-2QABh60Pz_OUSXnGDqbGNsWObbiAvrnkVhJRnT5f-bVmv1vDSfHJJJhSDr0CCzw",
+        "idt": "eyJraWQiOiJyc28tcHJvZC0yMDI0LTExIiwidHlwIjoiaWRfdG9rZW4rand0IiwiYWxnIjoiUlMyNTYifQ.eyJhdF9oYXNoIjoidHdvT1l6TUdkNTZlQ25wMHQ4M1c1ZyIsInN1YiI6IjMyMDBmOWY5LWYzZjYtNTViOS1iZWJlLTgyN2MwYjZmZWNlNSIsImNvdW50cnkiOiJ2bm0iLCJjb3VudHJ5X2F0IjoxNjA3NzMxNDUyMDAwLCJhbXIiOlsicGFzc3dvcmQiLCJtZmEiXSwiaXNzIjoiaHR0cHM6Ly9hdXRoLnJpb3RnYW1lcy5jb20iLCJsb2wiOlt7ImN1aWQiOjMyMDcyMDA0MTQxNzI1NzYsImNwaWQiOiJWTjIiLCJ1aWQiOjI2MTI0MDAxMTA5MjEzMTIsInVuYW1lIjoiS2lyaUl6dW1pIiwicHRyaWQiOm51bGwsInBpZCI6Ik9DMSIsInN0YXRlIjoiRU5BQkxFRCJ9XSwicGhvbmVfbnVtYmVyX3ZlcmlmaWVkIjp0cnVlLCJsb2NhbGUiOiJlbl9VUyIsIm5vbmNlIjoiMSIsImFjY291bnRfdmVyaWZpZWQiOnRydWUsImF1ZCI6InBsYXktdmFsb3JhbnQtd2ViLXByb2QiLCJhY3IiOiJ1cm46cmlvdDpnb2xkIiwicGxheWVyX2xvY2FsZSI6ImVuLVVTIiwiZXhwIjoxNzQ4ODM3ODAxLCJpYXQiOjE3NDg3NTE0MDEsImFjY3QiOnsiZ2FtZV9uYW1lIjoiU2VudGluZWwiLCJ0YWdfbGluZSI6IjE1MDEifSwianRpIjoiTGhPQnZyZ05JMk0iLCJsb2dpbl9jb3VudHJ5Ijoidm5tIn0.gHTdaCPlPp2pkqdrXNFmysOadz737b6uMPcS2nEXkc0EByI2-GG9_lUPybNteJKwma1cHzUa0W8f-Cr2tr7h2y8xmrx5oS945JJh4AKcxihErsdde7qRowLnpHnu3riA2BkVs9YLoAYNgNpVVAZ5gUi1pCSVLZh3ZTr67nk1gVUan4hakrRc7brV-jqT8JdjjCpThpgiEPWtN3Io-efOzYI3Vs_r6tUifnTUT4scD2ZkmcUw7VolS9BJj9uoHFBckXIXvfJwNRDRkErTBZKapIJJ4i2Sl2jLba4Z28ZuY_Ad9X8FjnYiX_o0Al-I0JxcJyQJxInvv5TidqqRwOOTHQ",
+        "cookies": {
+          "": "",
+          "tdid": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVkMzA4NWYxLTU5ZDgtNGNhMy1iYzA2LWZjYWI2MDk2MDQ0YyIsIm5vbmNlIjoiakxXRHMyWGdkV289IiwiaWF0IjoxNzQ4NzUxNDAxfQ.c4_f4uuXbeMOUmDZmD14HvR7tPBcxGOZNGWFXP53Ta4",
+          "ssid": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzc2lkIjoiSW9RRDNkWDN3MGRDSHdUT3AtWm5uQS5YY3QzR2Qxd2UzTVBvWjh6VDN4YzN3Iiwic3ViIjoiMzIwMGY5ZjktZjNmNi01NWI5LWJlYmUtODI3YzBiNmZlY2U1IiwibG9naW5Ub2tlbiI6IjQwN2ZjZTUzLWEzZjktNGE1OC1hNDAwLTRjOGNmMWM4YTA1ZiIsInNlcmllc1Rva2VuIjoiNGM4YTc1MGQtMWJhYy00NmFhLWE3MDEtMzE2NzE0ODY2ZThmIiwiaWF0IjoxNzQ4NzUxNDAyfQ.enYFAZsxfqo77_nNjRr-PHJvstO8ejhDgfuyVMiUBb8",
+          "clid": "uw1",
+          "sub": "3200f9f9-f3f6-55b9-bebe-827c0b6fece5",
+          "csid": "IoQD3dX3w0dCHwTOp-ZnnA.Xct3Gd1we3MPoZ8zT3xc3w",
+          "__cf_bm": "Qjy0EYoS_h55XddJzmTIf318HA7ZC8emZfFL6UshUZU-1748751402-1.0.1.1-GAF9YW4epc8LzSG_w7RyV59wxzBcojdhkLMkF.62VL3pLaIttj56dd.pzOvgAzfxf_XMFIbbn6DnVe50S9mFvan1pdlyZfnZpJz_xy9gaRM"
+        },
+        "ent": "eyJraWQiOiJrMSIsImFsZyI6IlJTMjU2In0.eyJlbnRpdGxlbWVudHMiOltdLCJhdF9oYXNoIjoidHdvT1l6TUdkNTZlQ25wMHQ4M1c1ZyIsInN1YiI6IjMyMDBmOWY5LWYzZjYtNTViOS1iZWJlLTgyN2MwYjZmZWNlNSIsImlzcyI6Imh0dHBzOi8vZW50aXRsZW1lbnRzLmF1dGgucmlvdGdhbWVzLmNvbSIsImlhdCI6MTc0ODc1MTQwMiwianRpIjoieUVFaklNaXVyWncifQ.15swveDISDr8qlFnxtSDez9wJ5RxPlobG-fzK2qZblD8iSDjgz4yljlnxz7-iReG1NELcN3fPVSZFG5qUXm78AB9vzSuUpsd0ce5tEsCGStDRapwAf-5b5x_RYK6F1carxsEmaieNkuPJWTBIq7TQVL3r__-Q53P5rPgOoWxhP-S8J_N14l2CGmJQYrMjJ_YlHS78ttmAoorVA9CX38A6vQNpKNrrSauJsUjwc5IY4JbUVGl6_cu9JlPoc0IySkoof22_FLpk1Zw0_nvCLP1OyHOHP0pga22V6VAYde94reIS65s4bttlUAmFAGoN2nqOu5KqWPaDCktAZyxalUTpg"
+      },
+      "alerts": [],
+      "username": "Sentinel#1501",
+      "region": "ap",
+      "authFailures": 0,
+      "lastFetchedData": 1748751400086,
+      "lastNoticeSeen": "",
+      "lastSawEasterEgg": 0
+    }
+  ],
+  "currentAccount": 1,
+  "settings": {
+    "dailyShop": false,
+    "pingOnAutoDailyShop": true,
+    "hideIgn": false,
+    "othersCanViewShop": true,
+    "othersCanViewColl": true,
+    "othersCanViewProfile": true,
+    "othersCanUseAccountButtons": true,
+    "locale": "vi"
+  }
+}
