@@ -47,8 +47,6 @@ export const loadSkinsJSON = async (filename = "data/skins.json") => {
     titles = jsonData.titles;
     battlepass = jsonData.battlepass;
 }
-const fs = require('fs');
-const path = require('path');
 
 export const saveSkinsJSON = (filename = "data/skins.json") => {
   const dir = path.dirname(filename);
